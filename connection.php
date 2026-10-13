@@ -7,10 +7,10 @@ mysqli_report(MYSQLI_REPORT_OFF);
 
 
 
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "libraryy";
+$host = "sql106.infinityfree.com";
+$user = "if0_43145712";
+$password = "h9HrcdjWqR";
+$database = "if0_43145712_library_system";
 
 $conn = new mysqli($host, $user, $password, $database);
 
